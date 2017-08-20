@@ -1,0 +1,3 @@
+<script>
+  Vue.component
+</script>
